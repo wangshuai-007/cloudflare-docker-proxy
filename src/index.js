@@ -16,7 +16,7 @@ const routes = {
   "cloudsmith.wangshuai.app": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.wangshuai.app": dockerHub,
 };
 
 function routeByHosts(host) {
